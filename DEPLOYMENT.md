@@ -11,7 +11,7 @@ This React app is configured to automatically deploy to GitHub Pages.
 ## Configuration
 
 ### Vite Configuration (`vite.config.ts`)
-- **Base path**: Set to `/presentprogressive/` for GitHub Pages
+- **Base path**: Set to `/demo_pagmar/` for GitHub Pages
 - **Build output**: `dist/` directory
 - **Source maps**: Disabled for production
 
@@ -37,7 +37,7 @@ This React app is configured to automatically deploy to GitHub Pages.
 
 Once deployed, your app will be available at:
 ```
-https://rotwem.github.io/presentprogressive/
+https://rotwem.github.io/demo_pagmar/
 ```
 
 ## Troubleshooting
